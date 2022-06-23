@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="turthouse" type="turtcloud" name="turthouse_node" output="screen">
+    </node>
+</launch>
